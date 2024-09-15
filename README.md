@@ -61,8 +61,6 @@ Feel free to submit issues or pull requests if you find any bugs or want to add 
 ### License
 This project is licensed under the MIT License.
 
----
-
 
 ### 5. **Push the Changes to GitHub**
    In the terminal, navigate to the cloned repository folder and run the following commands to add, commit, and push your changes:
@@ -71,6 +69,3 @@ This project is licensed under the MIT License.
    git add .
    git commit -m "Added 2048 game code and README"
    git push origin main
-
-### 7. View Your Repository
-After pushing, you can go to your GitHub repository URL, and you should see your README.md file displayed with your code and instructions.
