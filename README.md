@@ -33,4 +33,4 @@ The game ends when there are no more possible moves.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/2048-Python-Game.git
+   git clone https://github.com/iroshansharma/2048-Python-Game.git
