@@ -55,6 +55,11 @@ The game is implemented using the Tkinter library for the GUI, and the random mo
 
 ### Demo
 
+
+https://github.com/user-attachments/assets/36b35637-843a-4aa0-a83e-71fd02d1220a
+
+
+
 ### Contributing
 Feel free to submit issues or pull requests if you find any bugs or want to add new features.
 
