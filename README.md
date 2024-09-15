@@ -54,3 +54,25 @@ The game is implemented using the Tkinter library for the GUI, and the random mo
 - **check_game_over()**: Checks if there are no possible moves left.
 
 ### Demo
+
+### Contributing
+Feel free to submit issues or pull requests if you find any bugs or want to add new features.
+
+### License
+This project is licensed under the MIT License.
+
+---
+
+### 5. **Add a Screenshot (Optional)**
+   - Take a screenshot of your game.
+   - Upload the image to an image hosting platform or the GitHub repository.
+   - Add the image link in the `README.md` file where it says `![2048 Game Screenshot](https://link-to-your-screenshot.com)`.
+
+### 6. **Push the Changes to GitHub**
+   In the terminal, navigate to the cloned repository folder and run the following commands to add, commit, and push your changes:
+
+   ```bash
+   git add .
+   git commit -m "Added 2048 game code and README"
+   git push origin main
+
