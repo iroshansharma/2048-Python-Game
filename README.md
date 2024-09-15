@@ -46,11 +46,11 @@ The game ends when there are no more possible moves.
 The game is implemented using the Tkinter library for the GUI, and the random module is used to generate random numbers for tile placement.
 
 ### Key Components:
-**Game2048**: The main class responsible for handling the game logic, GUI updates, and user input.
-**init_grid**(): Initializes the game grid with Tkinter labels.
-**add_tile()**: Adds a new tile (2 or 4) at a random empty cell.
-**handle_key()**: Detects arrow key inputs and moves the tiles.
-**move_tiles()**: Moves and merges tiles based on user input.
-**check_game_over()**: Checks if there are no possible moves left.
+- **Game2048**: The main class responsible for handling the game logic, GUI updates, and user input.
+- **init_grid**(): Initializes the game grid with Tkinter labels.
+- **add_tile()**: Adds a new tile (2 or 4) at a random empty cell.
+- **handle_key()**: Detects arrow key inputs and moves the tiles.
+- **move_tiles()**: Moves and merges tiles based on user input.
+- **check_game_over()**: Checks if there are no possible moves left.
 
 ### Demo
